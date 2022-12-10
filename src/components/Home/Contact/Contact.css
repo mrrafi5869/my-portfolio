@@ -1,0 +1,19 @@
+.contact{
+    /* background-image: linear-gradient(#0E0E0E, #483d8b); */
+    background-color:  gray;
+}
+.contact-form{
+    /* background-color: #f9e8d2; */
+}
+
+.twit{
+    background-image: linear-gradient(red, yellow);
+}
+.insta{
+    background-image: linear-gradient(#feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+}
+.contact-head{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 0.1cm;
+}
+
